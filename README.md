@@ -9,7 +9,8 @@ Scrum and Product Backlog excel file has 4 sheets:
 4. Scrum-3 Backlog
 excel link: https://docs.google.com/spreadsheets/d/1_yXx35lYSPSUMfKzT6BUkoywXWFsCIMxE_FlWJPXGl0/edit?usp=sharing
 
-//Queries for graphql
+Queries for graphql:
+---------------------
 -User Story1:User Story 1: Querying Product Data
 Given I have a list of product IDs,
 When I create a GraphQL query to fetch product details,
