@@ -37,7 +37,8 @@ builder.Services.AddDbContextFactory<ShopeaseContext>(options =>
 
 builder.Services
         .AddGraphQLServer()
-        .AddQueryType<Query>() // Register the Query type
+        .AddQueryType<Query>()
+        .AddMutationType<Mutation>()
         .AddType<ProductType>() // Register all types
         .AddType<CategoryType>()
         .AddType<CustomerType>()

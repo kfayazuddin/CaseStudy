@@ -8,6 +8,8 @@ namespace ProjectGraphQL.Queries
 {
     public class Query
     {
+        /*ScopedService create one object per request and same is used or shared among all the methods
+         */
         // Query for Products
         [UseDbContext(typeof(ShopeaseContext))]
         public IQueryable<Product> GetProducts([ScopedService] ShopeaseContext context)
