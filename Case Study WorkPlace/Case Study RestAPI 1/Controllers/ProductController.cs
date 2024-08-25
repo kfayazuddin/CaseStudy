@@ -2,14 +2,19 @@
 using DBLibrary.Repo;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Case_Study_RestAPI_1.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    
     public class ProductController : ControllerBase
     {
         private readonly IProduct _int1;
@@ -52,5 +57,7 @@ namespace Case_Study_RestAPI_1.Controllers
         {
             _int1.DeleteProduct(id);
         }
+
+        }
     }
-}
+

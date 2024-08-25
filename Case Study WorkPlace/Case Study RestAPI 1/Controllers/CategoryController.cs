@@ -7,9 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Case_Study_RestAPI_1.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class CategoryController : ControllerBase
     {
         private readonly ICategory _int1;

@@ -7,9 +7,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Case_Study_RestAPI_1.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+   
     public class OrderController : ControllerBase
     {
         private readonly IOrder _int1;

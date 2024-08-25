@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AnirudhaBhat\\Desktop\\Trials\\Case Study WorkPlace\\DBLibrary\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\DBLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA311AAB-30AA-4652-87C9-C909457C3A5F}|DBLibrary.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\dblibrary\\models\\shopeasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA311AAB-30AA-4652-87C9-C909457C3A5F}|DBLibrary.csproj|solutionrelative:models\\shopeasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA311AAB-30AA-4652-87C9-C909457C3A5F}|DBLibrary.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\dblibrary\\extensions\\service_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA311AAB-30AA-4652-87C9-C909457C3A5F}|DBLibrary.csproj|solutionrelative:extensions\\service_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\case study restapi 1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FD171F-21EA-4AA4-8BF5-3D7AEBF6759E}|..\\Case Study RestAPI 1\\Case Study RestAPI 1.csproj|c:\\users\\kfayazuddin\\onedrive - planview, inc\\desktop\\groupproject\\casestudy\\case study workplace\\case study restapi 1\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +42,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:52:33.438Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:52:31.939Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:52:30.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:52:26.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service_extension.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\DBLibrary\\Extensions\\service_extension.cs",
+              "RelativeDocumentMoniker": "Extensions\\service_extension.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\DBLibrary\\Extensions\\service_extension.cs",
+              "RelativeToolTip": "Extensions\\service_extension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:52:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopeaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\DBLibrary\\Models\\ShopeaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\ShopeaseContext.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\DBLibrary\\Models\\ShopeaseContext.cs",
+              "RelativeToolTip": "Models\\ShopeaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:43:18.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\appsettings.json",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\appsettings.json",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T07:36:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Case Study RestAPI 1.http",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Case Study RestAPI 1.http",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Case Study RestAPI 1.http",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Case Study RestAPI 1.http",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Case Study RestAPI 1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-25T07:36:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Program.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Program.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:31:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "..\\Case Study RestAPI 1\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\KFayazUddin\\OneDrive - Planview, Inc\\Desktop\\GroupProject\\CaseStudy\\Case Study WorkPlace\\Case Study RestAPI 1\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "..\\Case Study RestAPI 1\\Controllers\\DiscountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:24:42.425Z",
+              "EditorCaption": ""
             }
           ]
         }
