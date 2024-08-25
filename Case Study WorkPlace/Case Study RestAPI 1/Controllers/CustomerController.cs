@@ -39,6 +39,7 @@ namespace Case_Study_RestAPI_1.Controllers
         }
 
         // POST api/<CustomerController>
+        [AllowAnonymous]
         [HttpPost]
         public void Post([FromBody] Customer c)
         {
